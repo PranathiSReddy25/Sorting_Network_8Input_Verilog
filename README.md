@@ -39,5 +39,6 @@ testbench/
 
 ## Author
 
-Pranathi S  
-BMS College of Engineering
+**Pranathi S**  
+Electronics and Communication Engineering Student  
+BMS College of Engineering, Bengaluru
