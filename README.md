@@ -42,3 +42,9 @@ testbench/
 **Pranathi S**  
 Electronics and Communication Engineering Student  
 BMS College of Engineering, Bengaluru
+
+## Simulation Results
+
+### Waveform
+
+![Simulation Waveform](waveforms/simulation.png)
